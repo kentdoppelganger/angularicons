@@ -1,7 +1,7 @@
 # AngularIcons
 
 
-The premium icon font for [Angulargap](http://angulargap.github.io/). Designed by [@Angulargap](https://twitter.com/flathemes).
+The premium icon font for [Angulargap](http://angulargap.github.io/). Designed by [@flathemes](https://twitter.com/flathemes).
 
 We intend for this icon pack to be used with [Angulargap](http://angulargap.github.io/), but it’s by no means limited to it. Use them wherever you see fit, personal or commercial. They are free to use and licensed under [MIT](http://opensource.org/licenses/MIT).
 
