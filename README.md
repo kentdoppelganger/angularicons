@@ -21,7 +21,7 @@ Or install with [bower](http://bower.io/)?
 
 ## HTML Example
 
-You can use [ionicons.com](http://ionicons.com) to easily find the icon you want to use. Once you've copied the desired icon's name, simply add the `icon` and `data-icon="&#xe02f"` to an HTML element.
+You can use [http://angulargap.github.io/angularicons.html](http://angulargap.github.io/angularicons.html) to easily find the icon you want to use. Once you've copied the desired icon's name, simply add the `icon` and `data-icon="&#xe02f"` to an HTML element.
 
     <i class="icon" data-icon="&#xe02f"></i>
 
