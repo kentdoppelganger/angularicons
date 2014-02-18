@@ -29,4 +29,4 @@ You can use [http://angulargap.github.io/angularicons.html](http://angulargap.gi
 
 Ionicons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/angulargap/angularicons/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
